@@ -1,0 +1,23 @@
+{
+  "name": "perviychay",
+  "version": "1.0.0",
+  "description": "chay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jalal43/perviychay.git"
+  },
+  "dependencies": {
+    "crpteashr": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalal43/perviychay/issues"
+  },
+  "homepage": "https://github.com/jalal43/perviychay#readme"
+}
